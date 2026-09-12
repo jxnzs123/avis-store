@@ -1,2 +1,20 @@
- [ { "id": "beispiel-1", "name": "Beispiel-Spiel", "description": "Kurze Beschreibung des Spiels.", "url": "https://example.com", "category": "Action", "sizeLabel": "10 GB", "coverImage": "" } ], 
-{ "id": "spiel-2", "name": "Echter Spielname", "description": "...", "url": "https://echte-seite.de", "category": "Indie", "sizeLabel": "2.5 GB", "coverImage": "https://.../cover.jpg" }
+[
+  {
+    "id": "beispiel-1",
+    "name": "Beispiel-Spiel",
+    "description": "Kurze Beschreibung des Spiels.",
+    "url": "https://example.com",
+    "category": "Action",
+    "sizeLabel": "10 GB",
+    "coverImage": ""
+  },
+  {
+    "id": "spiel-2",
+    "name": "Echter Spielname",
+    "description": "...",
+    "url": "https://echte-seite.de",
+    "category": "Indie",
+    "sizeLabel": "2.5 GB",
+    "coverImage": "https://.../cover.jpg"
+  }
+]
