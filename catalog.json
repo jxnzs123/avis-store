@@ -9,12 +9,11 @@
     "coverImage": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png"
   },
   {
-    "id": "spiel-2",
-    "name": "Echter Spielname",
-    "description": "...",
-    "url": "https://echte-seite.de",
-    "category": "Indie",
-    "sizeLabel": "2.5 GB",
-    "coverImage": "https://.../cover.jpg"
+    "id": "Assassin’s Creed Shadows",
+    "name": "Assassin’s Creed Shadows",
+    "url": "https://gofile.io/d/krzYVt",
+    "category": "Action",
+    "sizeLabel": "148 GB",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/en/5/54/Assassin%27s_Creed_Shadows_cover.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
   }
 ]
