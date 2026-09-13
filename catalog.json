@@ -15,5 +15,14 @@
     "category": "Action",
     "sizeLabel": "148 GB",
     "coverImage": "https://external-preview.redd.it/new-assassins-creed-shadow-cover-art-revealed-with-new-v0--QWo8Jq9ynnP_jFbcpE64RYnBHThHH2h2eKipRXwnkQ.jpg?auto=webp&s=22e5423341b27dee3d91d3ffe7fd9eabad77d570"
+  },
+  {
+    "id": "spiel-2",
+    "name": "Echter Spielname",
+    "description": "...",
+    "url": "https://echte-seite.de",
+    "category": "Indie",
+    "sizeLabel": "2.5 GB",
+    "coverImage": "https://.../cover.jpg"
   }
 ]
